@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisTree", "src\RedisTree\RedisTree.csproj", "{3A877A44-364C-40D1-99C2-E0A9F04B8DD4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisTree.TestConsole", "src\RedisTree.TestConsole\RedisTree.TestConsole.csproj", "{D5828A1D-CD48-442D-8A58-5CE54E57EC01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3A877A44-364C-40D1-99C2-E0A9F04B8DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A877A44-364C-40D1-99C2-E0A9F04B8DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A877A44-364C-40D1-99C2-E0A9F04B8DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A877A44-364C-40D1-99C2-E0A9F04B8DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5828A1D-CD48-442D-8A58-5CE54E57EC01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5828A1D-CD48-442D-8A58-5CE54E57EC01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5828A1D-CD48-442D-8A58-5CE54E57EC01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5828A1D-CD48-442D-8A58-5CE54E57EC01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
